@@ -19,8 +19,9 @@ Task yang dilakukan antara lain :
 4. Membuat Store Procedure (SP) untuk menampilkan
    summary sales order berdasarkan status pengiriman.
 
-Link Powerpoint :
+Link Powerpoint : https://github.com/TomIbnu/PBI_Data-Engineer_IDX-Partner/blob/main/FinalTask_IDX%20Partners_DE_Tom%20Ibnu.pptx
 
-Link Presentasi :
+Link Video Presentasi : https://drive.google.com/file/d/1ddWUGgGH2d3mQcUvt2rJQ_wup_TlagTO/view?usp=sharing
+
 
 Code snippet dan query terdapat pada repository
